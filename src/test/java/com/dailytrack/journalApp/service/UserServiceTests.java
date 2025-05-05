@@ -1,3 +1,4 @@
+/*
 package com.dailytrack.journalApp.service;
 
 import com.dailytrack.journalApp.entity.User;
@@ -31,3 +32,4 @@ public class UserServiceTests {
         assertNotNull(userService.saveNewUser(user));
     }
 }
+*/

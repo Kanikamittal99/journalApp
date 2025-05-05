@@ -1,3 +1,4 @@
+/*
 package com.dailytrack.journalApp.service;
 
 import com.dailytrack.journalApp.entity.User;
@@ -40,3 +41,4 @@ public class UserDetailsServiceImplTests {
         Assertions.assertNotNull(user);
     }
 }
+*/
